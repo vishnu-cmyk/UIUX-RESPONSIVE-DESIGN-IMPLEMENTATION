@@ -18,3 +18,4 @@ At its core, responsive design aims to provide a consistent and optimized experi
 
 **OUTPUT**  
 
+![Image](https://github.com/user-attachments/assets/c93acb5d-6453-4fe8-bf91-1d95d9b0defe)
